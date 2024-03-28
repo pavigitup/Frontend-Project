@@ -45,7 +45,7 @@ class CurrencyCards extends Component {
         const { currencyData } = this.state;
         return (
             <Container maxWidth="lg">
-                <Typography variant='h4' align='center' style={{ marginTop: "50px", color: "#ffffff" }}>
+                <Typography variant='h4' align='center' className='fs-5 fs-md-4 fs-lg-3 fs-xl-2' style={{ marginTop: "50px", color: "#ffffff" }}>
                     CryptoCurrencyPrices
                 </Typography>
                 <Grid container spacing={5} style={{ marginTop: "20px" }}>
