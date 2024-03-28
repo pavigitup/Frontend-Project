@@ -1,0 +1,18 @@
+.population-con{
+    background-color: #010416;
+    column-gap: 50px;
+   
+}
+
+.graph-con{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.charts{
+    display: flex;
+
+}
+

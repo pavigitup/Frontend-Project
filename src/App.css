@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+}
+.body-color{
+  background-color: #010416;
+  min-height: 100vh;
+}
+.navbar{
+  background-color: #0d101e;
+}
+
+.padding-change{
+  padding-top: 100px;
+}
